@@ -1,0 +1,17 @@
+﻿Build started 09/11/2015 17:41:10.
+     1>Project "D:\GitHub\MasterMind\MasterMind\MasterMind\MasterMind.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\MasterMind.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         MasterMind.vcxproj -> D:\GitHub\MasterMind\MasterMind\Release\MasterMind.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\MasterMind.unsuccessfulbuild".
+         Touching "Release\MasterMind.lastbuildstate".
+     1>Done Building Project "D:\GitHub\MasterMind\MasterMind\MasterMind\MasterMind.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
